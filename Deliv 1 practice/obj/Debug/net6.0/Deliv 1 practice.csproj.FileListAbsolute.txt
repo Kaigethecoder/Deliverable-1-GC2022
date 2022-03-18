@@ -1,0 +1,15 @@
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.csproj.AssemblyReference.cache
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.AssemblyInfoInputs.cache
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.AssemblyInfo.cs
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.csproj.CoreCompileInputs.cache
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\bin\Debug\net6.0\Deliv 1 practice.exe
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\bin\Debug\net6.0\Deliv 1 practice.deps.json
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\bin\Debug\net6.0\Deliv 1 practice.runtimeconfig.json
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\bin\Debug\net6.0\Deliv 1 practice.dll
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\bin\Debug\net6.0\Deliv 1 practice.pdb
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.dll
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\refint\Deliv 1 practice.dll
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.pdb
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\Deliv 1 practice.genruntimeconfig.cache
+C:\Users\mille\source\repos\Deliv 1 practice\Deliv 1 practice\obj\Debug\net6.0\ref\Deliv 1 practice.dll
